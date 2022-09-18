@@ -234,7 +234,4 @@ Step 2: Add external JUnit jar files and JUnit libraries to the project on Eclip
     ```bash
     @CsvSource({"test,TEST", "tEst,TEST", "Java,JAVA"})
     ```
-
-## Authors
-- [@Hasan Koser](https://www.github.com/HASH-002)
-- [@Harshini Pillarisetti](https://github.com/Harshi194)
+     
